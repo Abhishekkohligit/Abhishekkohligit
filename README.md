@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abhishekkohligit
-- 👀 I’m interested in ... Frond End Web Development
+- 👋 Hi, I’m @Abhishek Kohli
+- 👀 I’m interested in ... Frotd End Web Development
 - 🌱 I’m currently learning ... ReactJ
 - 📫 How to reach me ...
 
