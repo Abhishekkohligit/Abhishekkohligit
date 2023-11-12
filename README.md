@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek Kohli
-- 👀 I’m interested in ... Frotd End Web Development
-- 🌱 I’m currently learning ... ReactJ
+- 👀 I’m interested in ... Front End Web Development
+- 🌱 I’m currently learning ... ReactJS & Typescript
 - 📫 How to reach me ...
 
 <!---
