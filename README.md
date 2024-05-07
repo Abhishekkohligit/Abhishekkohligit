@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishek Kohli
-- 👀 I’m interested in ... Front End Web Development & Data Anaylytics
+- 👀 I’m interested in ... Front End Web Development & Data Analytics
 - 🌱 I’m currently learning ... ReactJS & Typescript
 - 📫 How to reach me ...
 
